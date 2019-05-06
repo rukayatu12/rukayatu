@@ -1,0 +1,100 @@
+.title{
+	background-color:yellow;
+	text-align: center; 
+}
+.menu{
+	width: 150px;
+}
+.parent{
+	display: flex;
+}
+
+.main{
+	width: 1200px;
+}
+
+.child{
+	border-left: 3px,solid green;
+	padding-left: 5px;
+
+}
+.side{
+	width: 200px;
+	height: 150px;
+	text-align: right;
+	border: 2px solid green;
+	border-style: dotted;
+	padding: 5px;
+
+
+}
+.date{
+	font-weight: bold;
+}
+.email{
+	text-align: center;
+}
+.right{
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+
+}
+.middle{
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+}
+.left{
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+
+}
+.den{
+	border: solid;
+	border-color: blue
+}
+.rig{
+	float: left;
+	width: 30%;
+	padding: 5%
+}
+.sid{
+	float: right;
+	width: 50%;
+	margin-right:3%; 
+}
+.rr{
+	text-align: left;
+	padding-right: : 5%
+
+}
+.mid{
+	text-align: center;
+}
+.topnav{
+	margin-left: : 3%;
+}
+h1{
+	font-family: georgia;
+	color: blue;
+	background-color: light gray
+	font-weight:bold;
+	font-size: 24px;
+	letter-spacing: 1.6em;
+	word-spacing: 2em;
+	text-align: center;
+}
+h2{
+	font-family: georgia
+	color:red;
+	font-size: 18px;
+	letter-spacing: 1.4em;
+}
+.dan{
+	border: thicksssss;
+	border-color: blue;
+	padding-bottom:30%;
+
+}

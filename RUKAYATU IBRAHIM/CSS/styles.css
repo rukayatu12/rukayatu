@@ -1,0 +1,60 @@
+h1{
+	font-family: algerian;
+	font-size: 12px;
+	color: brown
+	underline: 2 solid black;
+	font-style: all;text-align: center;
+
+}
+img{
+	height: 200px; width: 300px;
+	column-width: yellow
+
+}
+table,tr,th,td{
+	border: 5 solid brown
+}
+ul{
+	list-style-type: cjk-heavenly-stem;
+	list-style-image: inherit;
+	list-style-position: all;
+
+}
+ol{
+	list-style: armenian;
+	letter-spacing: 2px;
+}
+video{
+	transform: scale3d(3);
+	animation-play-state: all;
+}
+h2{
+	color: red;
+}
+.ti{
+	font-size: 50px;
+	font-family: tahoma;
+}
+
+.rr{
+	height: 400px;
+	width: 800px;
+}
+.large{
+	font-size: 16pt;
+}
+p.large{...}
+#p2{
+	font-weight: bold;
+}
+body{
+font-family: tahoma,arial,sans-serif;
+font-size: 16px;
+margin: 8px;
+color: black;
+background: white;
+}
+a{
+	text-decoration: none;
+	padding: 20px;
+}

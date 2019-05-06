@@ -1,0 +1,141 @@
+h1{
+	color: green;
+	text-shadow: 0px 1px #D2FFFF
+}
+
+h2{
+	font-family:tahoma;
+}
+ul{
+	list-style-type: circle;
+}
+ol{
+	list-style-type: lower-roman
+}
+.Ruks{ 
+	color: red;
+}
+.span1 {
+	font-family: tahoma;
+	font-size: 10px;
+	color: pink;
+}
+div{
+	background-color: yellow;
+}
+body{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.left{
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+	background-color: yellow;
+	margin-bottom: 2%;
+}
+.middle{
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+	background-color: yellow;
+	margin-bottom: 2%;
+}
+.right{
+	float: right;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 2%;
+	padding-right: 4%
+	margin-left:4%;
+}
+.border{
+	border: thin;
+	border-style: solid;
+	border-color: black;
+}
+p{
+	font-family: arial;
+	margin: 3%;
+}
+br.clear{
+	clear: both;
+}
+div.Ruks1{
+	width: 20%;
+	float: left;
+	margin-right: 6%;
+}
+div.RUKS2{
+	width: 20%;
+	float: left;
+	margin-right: 6%;
+}
+div.Ruky{
+	width: 20%;
+	float: left;
+	margin-right: 6%;
+}
+div.fam{
+	width: 20%;
+	float: right;
+	
+}
+#Ruks1{
+	width: 100%;
+	margin-bottom: 3%;
+	border-radius: 15%;
+
+}
+#RUKS2{
+	width: 100%;
+	margin-bottom: 3%;
+	border-radius: 15%;
+}
+#Ruky{
+	width: 100%;
+	margin-bottom: 3%;
+	border-radius: 15%;
+}
+#fam{
+	width: 100%;
+	margin-bottom: 3%;
+	border-radius: 15%;
+}
+div.picborder{
+	border-color: red;
+	border-style: solid;
+	border-width: thin;
+	border-radius: 15%;
+}
+#Ruks1{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+#RUKS2{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+#Ruky{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+#fam{
+	width: 100%;
+	margin-bottom: -3%;
+	border-radius: 15%;
+}
+div.teaching{
+	width: 55%;
+	float: left;
+	margin-right: 5%
+}
+div.research{
+	width: 40%;
+	float: right;
+	background:#00ff00;
+	border-radius: 5%

@@ -1,0 +1,135 @@
+body{
+	background-color:white;
+
+}
+h3{
+	font-family: arial;
+	color: blue;
+	font-style: tacoma
+	margin-left:100px;
+}
+img{
+	height: 400px;
+	width: 300px;
+}
+h5{
+	text-align: center;
+	color: red;
+}
+table,th,td{
+	border: 10px solid black;
+}
+ul{
+	list-style-type: circle;
+}
+ol{
+	list-style-type: upper-roman;
+}
+h2{
+	color: green;
+}
+.r1{
+	color: red;
+}
+.r2{
+	  color: green;
+}
+body{
+	margin-left: 70px;
+	margin-right: 80px;
+	margin-top: 60px;
+	padding-right: 100px;
+	background-size: : cover;
+}
+.uu{
+	background-color: silver;
+	font-weight: 50px;
+	font-family: times;
+	word-spacing: 5px;
+}
+a{
+	text-decoration: none;
+	padding: 20px;
+t
+}
+nav{
+	background-color: white;
+	text-align: center;
+
+}
+div{
+	background-color: green;
+	font-family: tahoma;
+
+}
+.bb{
+	background-color: blue;
+	text-align: right;
+}
+.no{
+	background-image: none;
+}
+.gg{
+	background-color: white;
+	text-decoration: none;
+	padding: 10px;
+}
+.tt{
+	position: center;
+	margin-left: 400px;
+	padding: -400px
+}
+.center{
+	text-align: center;
+}
+.ss{
+	text-align: center;
+	margin-right: 100px;
+	margin-top: -200px;
+	height: 30px;
+	width: 800px;
+
+}
+#ff{
+margin-left: 500px;
+
+}
+.container{
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+}
+.image{
+	width: 100%;
+	height: auto;
+}
+.overlay{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .3s ease;
+	background-color: red;
+}
+.container:hover.overlay{
+	opacity: 1;
+
+}
+.icon{
+	color: white;
+	font-size: 100px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform:translate(-50%, -50%);
+	text-align: center;
+
+}
+.fa-userhover{
+	color: #eee;
+}

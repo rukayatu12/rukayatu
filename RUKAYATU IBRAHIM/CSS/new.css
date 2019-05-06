@@ -1,0 +1,31 @@
+body{
+	text-align: center;
+	margin-left: 100px;
+	padding-top: 100px;
+	padding-right: 5em;
+	padding-bottom: 2em;
+	padding-left: 2em;
+	padding-top: 2em;
+	border-style: double;
+	border-color: white;
+	background-color: #00FFFF;
+	border-radius: 50px
+
+
+
+	 
+}   
+blockquote{
+	background clip:content-box;
+}
+li{
+	list-style-type: none
+
+}
+header{
+	background-color: white;
+}
+
+
+
+

@@ -1,0 +1,27 @@
+
+body{
+	margin-left: 50px;
+	margin-right: 50px;
+	background-image: url(/IMAGES/UCC/gif);
+	background: gold;
+} 
+blockquote{
+	padding: 2em;
+	border: 4px dashed;
+}
+h1{
+	color: #939
+}
+h2{
+	color:blue;
+	font-style:arial ;
+	font-family: tahoma;
+	font-size: 40px;
+	background-color: yellow;
+}
+img{
+	height: 400px;
+	width: 300px;
+	border-radius: 500px;
+	border: circle
+}
